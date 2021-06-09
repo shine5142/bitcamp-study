@@ -1,2 +1,2 @@
 console.log("Hello, world!");
-consoel.log("A개발자!");
+console.log("B개발자!");
